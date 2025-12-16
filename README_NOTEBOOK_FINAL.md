@@ -327,7 +327,7 @@ Based on confusion matrix results:
 
 ---
 
-### pre-recorded presentation video:
+### pre-recorded presentation video: https://drive.google.com/file/d/110NdGaswzM0AgIVjg0pvyl05tsp_qwE7/view?usp=sharing
 ### presentation slides:  https://docs.google.com/presentation/d/1gXLJ5y5n401QhLM3PpLJnmN34NtI8Ue0/edit?usp=sharing&ouid=100932542296015576315&rtpof=true&sd=true
 ### report: https://docs.google.com/document/d/1uI-3x9Atoq-wqVQyTz1-86_PjlzWjxQ2/edit?usp=sharing&ouid=100932542296015576315&rtpof=true&sd=true
 ### The dataset: https://drive.google.com/file/d/1PPsVCpfB_q-JT7LR3s1_M5jBfHeID35n/view?usp=sharing
